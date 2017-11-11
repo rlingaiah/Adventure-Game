@@ -1,0 +1,42 @@
+Script started on Fri 03 Mar 2017 07:27:01 PM PST
+[?1034hbash-4.2$ java Adventure.[K
+Welcome to Adventure Land.
+You can move around by typing north, south, east, or west.
+You can see what is in the room your are in by typing look.
+You can pick things up by typing 'pickup thing' where thing is what you see in the room.
+You can drop things you are carrying by typing 'drop thing' where thing names someting you have.
+You can see your status by typing status and quit by typing quit.
+Your objective is to pickup the treasure chest, pearls,and gold sword.
+north
+You just entered Entry Way
+south
+You just entered what looks like a cellar
+look
+You see:
+treasure chest
+
+pickup treasure chest
+You now have treasure chest
+south     east
+You just entered a room with no windows
+look
+You see:
+emeralds
+pearls
+
+pickup pearls
+You now have pearls
+e west
+You just entered a room with a table
+look
+You see:
+diamonds
+sword
+
+pickup sword
+You now have sword
+You win!! GAME OVER
+bash-4.2$ exit
+exit
+
+Script done on Fri 03 Mar 2017 07:28:20 PM PST
